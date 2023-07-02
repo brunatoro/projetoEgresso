@@ -1,3 +1,21 @@
+🎓 SISTEMA EGRESSO 🎓
+
+👩‍🏫 Esse projeto foi criado na disciplina de Projeto Integrador II ministrado pela professora Helen de Freitas da instituição IFSP Birigui.
+
+Alunos desenvolvedores: 
+👉 Bruna Toro; 
+👉 Felipe Zilio; 
+👉 Guilherme Alves; 
+👉 Kaique Machado; 
+👉 Larissa Fortuna; 
+👉 Ana Clara Martins; 
+👉 Eduardo Fuzyiama.
+
+🛈 O projeto consiste em criar um software (site) para as intituições terem o controle e divulgação dos alunos Egressos.
+
+🔗 Para mais informações acesse o site do nosso projeto: https://egressoifsp.wixsite.com/meusite
+
+
 # Tutorial básico para rodar o Egresso.
 
 ## 1) Programas necessários
@@ -37,21 +55,6 @@ Egresso Firebase - https://console.firebase.google.com/u/0/project/egresso-3bbb0
 Em seguida faça login com o email e senha que estão no grupo.
 
 
-#🎓 SISTEMA EGRESSO 🎓
 
-👩‍🏫 Esse projeto foi criado na disciplina de Projeto Integrador II ministrado pela professora Helen de Freitas da instituição IFSP Birigui.
-
-Alunos desenvolvedores: 
-👉 Bruna Toro; 
-👉 Felipe Zilio; 
-👉 Guilherme Alves; 
-👉 Kaique Machado; 
-👉 Larissa Fortuna; 
-👉 Ana Clara Martins; 
-👉 Eduardo Fuzyiama.
-
-🛈 O projeto consiste em criar um software (site) para as intituições terem o controle e divulgação dos alunos Egressos.
-
-##🔗 Para mais informações acesse o site do nosso projeto: https://egressoifsp.wixsite.com/meusite
 
 
